@@ -1,0 +1,5 @@
+sendemailreset
+manage order -> edit note
+Account/review
+detail product
+cart
